@@ -1,2 +1,2 @@
 # DataSciencePortfolio
-I will be using this repository to advance my skills in data science. 
+I will be using this repository to showcase the practice projects that I complete. 
